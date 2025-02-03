@@ -1,1 +1,3 @@
-# İstanbul Medeniyet Üniversitesi Mobil Programlama dersi için yapılmış film takip uygulaması projesi.
+# Movie Tracker App
+
+İstanbul Medeniyet Üniversitesi mobil programlama dersi için yapıldı
